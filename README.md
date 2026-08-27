@@ -1,4 +1,4 @@
-# PRODIGY_DS_04 - Social Media Sentiment Analysis and Visualization
+# PRODIGY_DS_03 - Social Media Sentiment Analysis and Visualization
 
 ## 📌 Task-04
 
@@ -26,7 +26,7 @@ The data is cleaned and explored, and visualizations are created to understand t
 
 **Dataset:** Twitter Training Dataset
 
-**Source:** Prodigy InfoTech Data Science Datasets - Task 04
+**Source:** Prodigy InfoTech Data Science Datasets - Task 03
 
 The dataset contains Twitter posts associated with different entities and their corresponding sentiment labels.
 
