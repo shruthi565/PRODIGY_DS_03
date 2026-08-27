@@ -113,7 +113,7 @@ This task provided practical experience in data cleaning, exploratory data analy
 ## 📂 Repository Structure
 
 ```text
-PRODIGY_DS_04
+PRODIGY_DS_03
 │
 ├── Task-04_Sentiment_Analysis.ipynb
 └── README.md
